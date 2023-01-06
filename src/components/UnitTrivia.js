@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import { nanoid } from "nanoid";
 import Option from "./option";
 
 export default function (props) {
